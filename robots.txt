@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.9vcp2b.cn/sitemap.xml
